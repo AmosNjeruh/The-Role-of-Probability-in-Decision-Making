@@ -1,6 +1,4 @@
 
-Here's some text you can use for your README file:
-
 The Role of Probability in Decision-Making
 Overview
 This document explores the significance of probability in decision-making, particularly in uncertain environments. It highlights key concepts in probability theory and illustrates its applications in various fields such as finance, engineering, and social sciences.
